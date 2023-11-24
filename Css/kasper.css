@@ -316,7 +316,7 @@ display: flex;
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
     height: 600px;
-    background-image: url(../images/design-features.jpg);
+    background-image: url("../images/design-features.jpg");
     background-size: cover;
     position: relative;
     display: flex;
@@ -522,7 +522,7 @@ max-width: 100%;
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
     text-align: center;
-    background-image: url(images/stats.png);
+    background-image: url("../images/stats.png");
     background-size: cover;
     position: relative;
     
@@ -704,7 +704,7 @@ margin-bottom: 50px;
 .quote{
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
-  background-image: url(images/quote.jpg);
+  background-image: url("../images/quote.jpg");
   background-size: cover;
 text-align: center;
 position: relative;
@@ -831,7 +831,7 @@ padding: 15PX 30PX;
 /* end pricing  */
 /* start Subscribe*/
 .Subscribe{
-    background-image: url(images/subscribe.jpg);
+    background-image: url("../images/subscribe.jpg");
     padding-top:var(--sec-padding);
     padding-bottom: var(--sec-padding);
     background-size:cover;
@@ -981,7 +981,7 @@ line-height: 2;
 .footer{
     padding:calc(var(--sec-padding) / 2);
     padding: calc(var(--sec-padding) / 2);
-    background-image: url(images/subscribe.jpg);
+    background-image: url("../images/subscribe.jpg");
     background-size: cover;
     position: relative;
     color: white;
