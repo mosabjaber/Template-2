@@ -185,7 +185,7 @@ header nav .form {
 /* end header */
 /* start landing */
 .landing{
-    background-image: url(../images/landing.jpg);
+    background-image: url("../images/landing.jpg");
     background-size: cover;
     min-height: 100vh;
     position: relative;
