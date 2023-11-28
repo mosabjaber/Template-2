@@ -595,7 +595,7 @@ transition: 0.3s;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    width: 100%;
+    
 }
 @media (min-width:992px){
     .our-skills .container > div{
